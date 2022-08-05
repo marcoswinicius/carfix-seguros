@@ -1,0 +1,12 @@
+<svg id="Fundo_Cinza" data-name="Fundo Cinza" xmlns="http://www.w3.org/2000/svg" width="1920" height="1146" viewBox="0 0 1920 1146">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eee;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Retângulo_3" data-name="Retângulo 3" class="cls-1" d="M-2,1416H1920V2486H-2V1416Z" transform="translate(0 -1340)"/>
+  <path id="Forma_3" data-name="Forma 3" class="cls-1" d="M1272,1340l-61,77h123Z" transform="translate(0 -1340)"/>
+</svg>

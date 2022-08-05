@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="819" viewBox="0 0 1920 819">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #eee;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Fundo_cinza" data-name="Fundo cinza" class="cls-1" d="M0,4487.99H1920l2-759.88H937L876,3669l-69,59.82L2,3725.97Z" transform="translate(0 -3669)"/>
+</svg>

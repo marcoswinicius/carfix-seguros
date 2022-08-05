@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1118" viewBox="0 0 1920 1118">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d2938;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+        stroke: url(#linear-gradient);
+        filter: url(#filter);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="961.158" y1="1032.19" x2="961.158" y2="9.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#02e36e"/>
+      <stop offset="0.5" stop-color="#56e8f2"/>
+      <stop offset="1" stop-color="#4cc5f8"/>
+    </linearGradient>
+    <filter id="filter" x="-52" y="-0.5" width="2021" height="1119" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-3.312" dy="37.855" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="6.782"/>
+      <feFlood result="flood" flood-opacity="0.07"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g style="fill: #2d2938; filter: url(#filter)">
+    <rect id="Retângulo_1_copiar_2" data-name="Retângulo 1 copiar 2" class="cls-1" x="-1.344" y="9.12" width="1925.004" height="1023.07" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#Retângulo_1_copiar_2" style="stroke: url(#linear-gradient); filter: none; fill: none"/>
+</svg>
